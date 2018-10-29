@@ -1,5 +1,4 @@
 package cn.itcast.controller;
 
-public class BaseController {
-
+public class GuiController {
 }
